@@ -1,7 +1,7 @@
 # LHabrioot
 Respond to a Sneeze using a random language
 
-Demo: https://snack.expo.io/ByigrZS4-
+Demo: https://snack.expo.io/@barakplasma/lhabrioot
 
 Based on https://en.wikipedia.org/wiki/Responses_to_sneezing and https://api.forvo.com/demo using https://expo.io/ 
 
